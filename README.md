@@ -7,3 +7,6 @@ CNNs, like neural networks, are made up of neurons with learnable weights and bi
 
 I have submitted my submission with a score of 0.99457 on kaggle.
 You can improve it by trying and testing different types of activation and learning rate.
+
+#Result
+![alt Output](https://raw.githubusercontent.com/rahuls321/Kaggle-Digit-Recognizer/master/output_5_1.png)
